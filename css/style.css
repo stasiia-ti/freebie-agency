@@ -78,4 +78,40 @@ h6 {
   font-weight: 400;
 }
 /*--------------------*/
-
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #f2f2f2;
+  color: #777;
+}
+.wrapper {
+  min-height: 100%;
+  overflow: clip;
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1 1 auto;
+}
+.where__block {
+}
+.where__block img {
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+.where__nav {
+}
+.where__list {
+}
+.where__nav-item {
+}
+.where__content {
+}
+.where__title {
+}
+.where__text {
+}
+.where__slide {
+}
+.number {
+}
